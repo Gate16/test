@@ -18,9 +18,9 @@ spring:
         livereload:
             enabled: false # we use gulp + BrowserSync for livereload
     datasource:
-        url: jdbc:postgresql://localhost:5432/test
+        url: jdbc:postgresql://govhack.czdxzvsj5wre.ap-southeast-2.rds.amazonaws.com:5432/govhackdb
         name:
-        username: test
+        username: admin
         password:
     jpa:
         database-platform: nz.co.airnz.govhack2016.test.domain.util.FixedPostgreSQL82Dialect
