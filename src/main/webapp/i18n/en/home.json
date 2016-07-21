@@ -1,13 +1,13 @@
 {
     "home": {
-        "title": "Welcome, Java Hipster!",
-        "subtitle": "This is your homepage",
+        "title": "Gate 16 project",
+        "subtitle": "What we should display in this home page ? Please write down user cases and features list ...",
         "logged": {
             "message": "You are logged in as user \"{{username}}\"."
         },
         "question": "If you have any question on JHipster:",
         "link": {
-            "homepage": "JHipster homepage",
+            "homepage": "Gate 16 project home page",
             "stackoverflow": "JHipster on Stack Overflow",
             "bugtracker": "JHipster bug tracker",
             "chat": "JHipster public chat room",
