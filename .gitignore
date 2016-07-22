@@ -138,7 +138,7 @@ Desktop.ini
 # Remove unnecessary out
 .mvn/
 .travis.yml
-.yo-rc.json
+#.yo-rc.json
 
 
 

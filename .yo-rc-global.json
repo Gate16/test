@@ -1,0 +1,7 @@
+{
+  "generator-jhipster:3.4.2": {
+    "promptValues": {
+      "packageName": "nz.co.airnz.govhack2016.test"
+    }
+  }
+}
