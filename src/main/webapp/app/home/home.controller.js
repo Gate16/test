@@ -83,7 +83,7 @@
                 imagePath: 'content/images/m'
             };
 
-            var markerCluster = new MarkerClusterer(map, markers, options);
+            //var markerCluster = new MarkerClusterer(map, markers, options);
 
 
             /*var i = new google.maps.Marker({
